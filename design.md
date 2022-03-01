@@ -22,6 +22,7 @@ You and your little brother snuck out after everyone was asleep because your mom
 * Darken maze when torch not in use; lighten when in use
 
 ## Stretch Goals
+* Add a torch counter
 * Add start and end menus
 * Art for player
 * Art for walls
