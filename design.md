@@ -13,8 +13,8 @@ You and your little brother snuck out after everyone was asleep because your mom
 1. Save your brother
 
 ## Minimum Viable Product (MVP) with time estimates
-* Create a maze with "#" symbols for the walls --> 2 hours
-* Spawn player marked by "@" who can walk one square at a time --> 30 minutes
+* Create a maze with black squares for the walls --> 2 hours
+* Spawn player marked by a simple sprite who can walk one square at a time --> 30 minutes
 * Implement collisions between the player and the walls -- with sound! --> 1 hour
 * Place little brother near end of maze --> 15 minutes
 * Player wins upon reaching little brother --> 30 minutes
@@ -23,6 +23,7 @@ You and your little brother snuck out after everyone was asleep because your mom
 * Add a timer --> 15 minutes
 
 ## Stretch Goals
+* Implement recharge time for torch
 * Add a torch counter
 * Add start and end menus
 * Art for player
